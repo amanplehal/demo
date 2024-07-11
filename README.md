@@ -1,4 +1,6 @@
 # demo
 practice!
 <br>
-Author - Aman Preet Singh 21BAI10232
+Author - Aman Preet Singh
+<br>
+This is just a demo repo for practice!
